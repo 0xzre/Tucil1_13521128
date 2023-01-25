@@ -235,6 +235,7 @@ int main(){
     /* Brute Force */
 
     /* Looping Cards*/
+    double startT = time(0);
     for(int i = 0; i < 4; i++){
         for(int j = 0; j < 4; j++){
             if(j != i){
@@ -261,6 +262,8 @@ int main(){
             }
         }
     }
+    double endT = time(0);
+    printf("Waktu yang dibutuhkan : %f detik\n", endT-startT);
     if(jumlahSolusi == 0){
         cout << "Tidak ada solusi" << endl;
         cout << "Apakah Anda ingin menyimpannya?(Y/N)\n";
