@@ -8,5 +8,6 @@ Buka folder bin, lalu buka 'main.exe' untuk menjalankan program
 
 
 
+# Pembuat
 Muhammad Abdul Aziz Ghazali
 13521128
