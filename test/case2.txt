@@ -1,0 +1,19 @@
+Kartu yang dipakai adalah: J 8 1 K
+Ditemukan 16 solusi
+Solusi: 
+8 * ((A - J) + K)
+8 * (A - (J - K))
+8 * ((A + K) - J)
+8 * (A + (K - J))
+8 * ((K - J) + A)
+8 * (K - (J - A))
+8 * ((K + A) - J)
+8 * (K + (A - J))
+((A - J) + K) * 8
+(A - (J - K)) * 8
+((A + K) - J) * 8
+(A + (K - J)) * 8
+((K - J) + A) * 8
+(K - (J - A)) * 8
+((K + A) - J) * 8
+(K + (A - J)) * 8
